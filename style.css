@@ -1,0 +1,14 @@
+body{
+    background-color: darkorange;
+    text-align: center;
+    color: forestgreen; 
+}
+.image-section{
+   display: flex;
+    justify-content: center;
+}
+
+img{
+    width: 700;
+    margin: 20px;
+}
